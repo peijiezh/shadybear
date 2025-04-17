@@ -444,3 +444,35 @@ footer {
         padding: 1.5rem;
     }
 }
+
+/* Terms of Service Page Styles */
+.terms-section {
+    padding: 40px 20px;
+}
+
+.last-updated {
+    color: #777;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+.terms-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.terms-content h3 {
+    margin-top: 30px;
+    color: #444;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.terms-content ul {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.terms-content ul li {
+    margin-bottom: 10px;
+}
